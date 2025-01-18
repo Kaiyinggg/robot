@@ -1,3 +1,3 @@
-It is a 3d model. 
-Developed using OpenGL framework and the programming language C++. 
+It is a 3d robot model. 
+Developed using OpenGL and the C++. 
 Expected to run in Visual Studio.
